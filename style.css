@@ -8,7 +8,7 @@ body{
 	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 }
 .col-sm-3 img { 
-	border:2px solid #7300e6;
+	border:2px solid #4bf5ef;
 	margin-left: 30px;
 	float: right;
 }
@@ -37,7 +37,7 @@ body{
 }
 
 .title a {
-	color: floralwhite;
+	color: rgb(156, 232, 251);
 }
 
 .links {
@@ -64,7 +64,7 @@ body{
 }
 
 body a{
-	color: #a64dff;
+	color: #16bef6;
 }
 
 .copyright p{
